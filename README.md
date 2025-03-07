@@ -14,22 +14,8 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=topdzi&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=topdzi&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topdzi&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
-
----
-
 ### 💻 Whoami  
+
 ```bash
 topdzi@github:~$ echo "Full-stack developer, building cool stuff"
 topdzi@github:~$ ls skills
@@ -41,12 +27,3 @@ topdzi@github:~$ ls skills
 topdzi@github:~$ sudo rm -rf sociallife
 [Error] Permission denied
 topdzi@github:~$ exit
-
-
-### 📬 Connect with me  
-  <a href="https://x.com/topdzi1">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-</p>
-
-# <h1 align="center"> 🔥 Always learning & building! 🚀  
