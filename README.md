@@ -35,4 +35,4 @@
   </a>
 </p>
 
-# 🔥 Always learning & building! 🚀  
+<h1 align="center"># 🔥 Always learning & building! 🚀  
