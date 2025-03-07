@@ -29,6 +29,20 @@
 
 ---
 
+### 💻 Whoami  
+```bash
+topdzi@github:~$ echo "Full-stack developer, building cool stuff"
+topdzi@github:~$ ls skills
+- React.js
+- Node.js
+- MongoDB
+- JavaScript
+- More...
+topdzi@github:~$ sudo rm -rf sociallife
+[Error] Permission denied
+topdzi@github:~$ exit
+
+
 ### 📬 Connect with me  
   <a href="https://x.com/topdzi1">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
