@@ -30,7 +30,6 @@
 ---
 
 ### 📬 Connect with me  
-<p align="center">
   <a href="https://x.com/topdzi1">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
